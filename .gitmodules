@@ -1,0 +1,16 @@
+[submodule "leaderboard_10/leaderboard"]
+	path = leaderboard_10/leaderboard
+	url = git@github.com:carla-simulator/leaderboard.git
+	branch = leaderboard-1.0
+[submodule "leaderboard_10/scenario_runner"]
+	path = leaderboard_10/scenario_runner
+	url = git@github.com:carla-simulator/scenario_runner.git
+	branch = leaderboard-1.0
+[submodule "leaderboard_20/leaderboard"]
+	path = leaderboard_20/leaderboard
+	url = git@github.com:carla-simulator/leaderboard.git
+	branch = leaderboard-2.0
+[submodule "leaderboard_20/scenario_runner"]
+	path = leaderboard_20/scenario_runner
+	url = git@github.com:carla-simulator/scenario_runner.git
+	branch = leaderboard-2.0
